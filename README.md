@@ -1,2 +1,2 @@
 # hello-world
-This repository is for launch my data analyst profile as an expert in Agrofood industry
+This repository is dedicated to building and presenting my professional profile as a data analyst in the agro-food sector.
